@@ -17,11 +17,7 @@ format:
     logo: logofinale_SST.png
     footer: "[ahmedmoosman.github.io](https://ahmedmoosman.github.io/)"
 ---
-
-
-<!-- .slide: data-toc="Table of Contents" -->
-# Table of Contents
-
+# AGENDA
 - [Introduction](#introduction)
 - [Research Frontiers](#research-frontier-of-spatial-and-eo-data-in-economics)
 - [Strategic Potential Partners](#strategic-potential-partners)
