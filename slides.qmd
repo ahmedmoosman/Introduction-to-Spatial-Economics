@@ -18,6 +18,17 @@ format:
     footer: "[ahmedmoosman.github.io](https://ahmedmoosman.github.io/)"
 ---
 
+
+<!-- .slide: data-toc="Table of Contents" -->
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Research Frontiers](#research-frontier-of-spatial-and-eo-data-in-economics)
+- [Strategic Potential Partners](#strategic-potential-partners)
+
+
+
+# Introduction {background-color="#005573"}
 ## Introduction
 
 The cheap availability of high-resolution satellite imagery has already become a powerful tool in economics, just as it has in other research fields and in the private sector.
