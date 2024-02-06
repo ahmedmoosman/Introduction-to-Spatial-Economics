@@ -17,14 +17,15 @@ format:
     logo: logofinale_SST.png
     footer: "[ahmedmoosman.github.io](https://ahmedmoosman.github.io/)"
 ---
+
 # AGENDA
-- [Introduction](#introduction)
-- [Research Frontiers](#research-frontier-of-spatial-and-eo-data-in-economics)
-- [Strategic Potential Partners](#strategic-potential-partners)
 
+-   [Introduction](#introduction)
+-   [Research Frontiers](#research-frontier-of-spatial-and-eo-data-in-economics)
+-   [Strategic Potential Partners](#strategic-potential-partners)
 
+# Introduction {#introduction background-color="#005573"}
 
-# Introduction {background-color="#005573"}
 ## Introduction
 
 The cheap availability of high-resolution satellite imagery has already become a powerful tool in economics, just as it has in other research fields and in the private sector.
@@ -70,7 +71,7 @@ The cheap availability of high-resolution satellite imagery has already become a
 :::
 :::
 
-# Research Frontier of Spatial and EO Data in Economics {background-color="#005573"}
+# Research Frontier of Spatial and EO Data in Economics {#research-frontier-of-spatial-and-eo-data-in-economics background-color="#005573"}
 
 ## Research Frontier of Spatial and EO Data in Economics
 
@@ -151,7 +152,16 @@ Teaching Machines to Measure Economic Activities from Satellite Images: Challeng
 
 ![](paper2model.png){fig-align="center" width="60%"}
 
-# Strategic potential partners {background-color="#005573"}
+## Recent applications
+
+other papers
+
+::: incremental
+-   The Curse of Bad Geography: Stagnant Water, Diseases, and Children’s Human Capital by **`Berggreen and Mattisson`** of Lund University ([2023](https://stevebc87.github.io/steveberggreen/jmp/BerggreenMattisson_Stagnant_Water.pdf)).
+-   Do poverty and wealth look the same the world over? A comparative study of 12 cities from five high-income countries using street images by **`Suel et al`** ([2023](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00394-6#citeas)).
+:::
+
+# Strategic potential partners {#strategic-potential-partners background-color="#005573"}
 
 ## Strategic potential partners
 
@@ -162,7 +172,7 @@ Teaching Machines to Measure Economic Activities from Satellite Images: Challeng
 -   EARSC
 -   Jameel Observatory
 -   United Nations Global Geospatial Information Management
+-   The Center on Food Security and the Environment
 :::
 
 # Thanks {background-color="#005573" style="text-align: center"}
-
