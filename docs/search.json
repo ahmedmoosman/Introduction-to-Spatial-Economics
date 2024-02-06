@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "slides.html#introduction",
+    "href": "slides.html#introduction",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Introduction",
+    "text": "Introduction\nThe cheap availability of high-resolution satellite imagery has already become a powerful tool in economics, just as it has in other research fields and in the private sector.\n\n\n\nSatellite VU 2023"
+  },
+  {
+    "objectID": "slides.html#spatial-and-eo-data-for-economic-analysis",
+    "href": "slides.html#spatial-and-eo-data-for-economic-analysis",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Spatial and EO data for Economic analysis",
+    "text": "Spatial and EO data for Economic analysis\nConventionally, utilization of spatial or earth observation data for economic analysis was limited to a few economic fields :\n\n\nEnvironmental Economics\nUrban/Regional Economics\nEconomics of Geography"
+  },
+  {
+    "objectID": "slides.html#spatial-and-eo-data-for-economic-analysis-1",
+    "href": "slides.html#spatial-and-eo-data-for-economic-analysis-1",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Spatial and EO data for Economic analysis",
+    "text": "Spatial and EO data for Economic analysis\nOwing to the recent development of computer vision algorithms, economists have used satellite data not just to explore novel questions but also to tackle questions that could not be answered with traditional data sources. Some of the recent applications include:\n\n\nGDP Measurement\nAgricultural production\nEconomic activity\nUrban development\nOthers"
+  },
+  {
+    "objectID": "slides.html#tools-and-techniques",
+    "href": "slides.html#tools-and-techniques",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Tools and Techniques",
+    "text": "Tools and Techniques\nEconomists widely employed these two techniques to developed comprehensive analysis:\n\n\n\nGIS/Spatial Modeling:\n\nIncorporating GIS or geographical elements in economic models\n\nRemote-sensing/EO data:\n\ninvolves capturing and analyzing EO data."
+  },
+  {
+    "objectID": "slides.html#research-frontier-of-spatial-and-eo-data-in-economics-1",
+    "href": "slides.html#research-frontier-of-spatial-and-eo-data-in-economics-1",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Research Frontier of Spatial and EO Data in Economics",
+    "text": "Research Frontier of Spatial and EO Data in Economics\nFollowing the advancement of the AI and machine learning techniques, most of the papers use :\n\n\nMachine Learning and Big Data Analytics,\nHigh-Resolution Satellite Imagery\n\n\nHere are some of the papers….."
+  },
+  {
+    "objectID": "slides.html#recent-applications",
+    "href": "slides.html#recent-applications",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Recent applications",
+    "text": "Recent applications\nTeaching Machines to Measure Economic Activities from Satellite Images: Challenges and Solutions by Kim etal., 2020\n\n\n\nHow can we measure economic development without ground truth?\nExplored the effective integration of machine learning techniques with satellite imagery to extract economic measures, enabling more informed policy development."
+  },
+  {
+    "objectID": "slides.html#teaching-machines-to-measure-economic-activities.",
+    "href": "slides.html#teaching-machines-to-measure-economic-activities.",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Teaching Machines to Measure Economic Activities………….",
+    "text": "Teaching Machines to Measure Economic Activities………….\nKim etal., 2020 applied deep learning approach to satellite images to measure economic development in the settings where ground-truth data is not available.\nModel"
+  },
+  {
+    "objectID": "slides.html#teaching-machines-to-measure-economic-activities..",
+    "href": "slides.html#teaching-machines-to-measure-economic-activities..",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Teaching Machines to Measure Economic Activities…..",
+    "text": "Teaching Machines to Measure Economic Activities…..\nModel\n\nModel"
+  },
+  {
+    "objectID": "slides.html#teaching-machines-to-measure-economic-activities..-1",
+    "href": "slides.html#teaching-machines-to-measure-economic-activities..-1",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Teaching Machines to Measure Economic Activities…..",
+    "text": "Teaching Machines to Measure Economic Activities…..\nModel\n\nModel"
+  },
+  {
+    "objectID": "slides.html#teaching-machines-to-measure-economic-activities..-2",
+    "href": "slides.html#teaching-machines-to-measure-economic-activities..-2",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Teaching Machines to Measure Economic Activities…..",
+    "text": "Teaching Machines to Measure Economic Activities…..\nModel\n\nModel"
+  },
+  {
+    "objectID": "slides.html#recent-applications-1",
+    "href": "slides.html#recent-applications-1",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Recent applications",
+    "text": "Recent applications\nRemotely-sensed market activity as a high-frequency economic indicator in remote rural areas by Carnap (2023)\n\n\n\nPresents a scalable method generating a high-frequency economic activity measure for rural areas of developing countries\nNot only displays an intuitive variation with respect to exogenous shocks but also temporal and geographical detail at which remote sensing-based analyses are possible."
+  },
+  {
+    "objectID": "slides.html#remotely-sensed-market-activity.",
+    "href": "slides.html#remotely-sensed-market-activity.",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Remotely-sensed market activity………….",
+    "text": "Remotely-sensed market activity………….\nCarnap's, 2023 paper presented a method allows for the detection of periodic marketplaces and their monitoring over time.\nModel"
+  },
+  {
+    "objectID": "slides.html#remotely-sensed-market.",
+    "href": "slides.html#remotely-sensed-market.",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Remotely-sensed market….",
+    "text": "Remotely-sensed market…."
+  },
+  {
+    "objectID": "slides.html#strategic-potential-partners-1",
+    "href": "slides.html#strategic-potential-partners-1",
+    "title": "Application of spatial  data in economic analysis",
+    "section": "Strategic potential partners",
+    "text": "Strategic potential partners\nSome of the strategic parteners for future collaboration are:\n\n\nEuropean Innovation Council\nEARSC\nJameel Observatory\nUnited Nations Global Geospatial Information Management"
+  }
+]
